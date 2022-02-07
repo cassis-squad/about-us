@@ -1,6 +1,7 @@
 # Cassis Squad 🍷
 
 ### Respository structure:
+
 * [Main Site](https://github.com/cassis-squad/Cassis_Squad)
 * [Documentation](https://github.com/cassis-squad/doc)
 * [src](https://github.com/cassis-squad/src)
@@ -20,4 +21,8 @@ Team manager, Developer, Github mainteiner
 
 ##### Samuele Forneris
 
+<img src="https://avatars.githubusercontent.com/u/72200914?v=4" title="" alt="" width="182">
+
 ##### Alessandro Seimandi
+
+Hardware side, maker
