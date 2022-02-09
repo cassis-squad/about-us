@@ -5,6 +5,8 @@
 * [Main Site](https://github.com/cassis-squad/Cassis_Squad)
 * [Documentation](https://github.com/cassis-squad/doc)
 * [src](https://github.com/cassis-squad/src)
+* [Arduino code](https://github.com/cassis-squad/arduino)
+
 
 ### Team
 
