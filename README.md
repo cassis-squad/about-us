@@ -36,9 +36,3 @@ Developer, Maker
 [GitHub](https://github.com/samu4ne)
 
 <img src="https://avatars.githubusercontent.com/u/72200914?v=4" title="" alt="" width="182">
-
-##### Alessandro Seimandi
-
-Hardware side, maker
-
-[GitHub](https://github.com/AleSeima)
